@@ -6,14 +6,14 @@
 
 
 //Parametre WIFI
-const char* ssid = "YNOVAIX IOT";
-char* password = "9xUNb8mk7Vs3A3Y";  //Mot de passe
+const char* ssid = "Freebox-695429";  // Nom du réseau
+const char* password = "semodium*-forensia-necandi-visitarem&%";  //Mot de passe
 
 //Parametre Adafruit
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "isatys"
-#define AIO_KEY       "30bcd5bfe9294a03afde64ff868e7021"
+#define AIO_USERNAME    "andiore"
+#define AIO_KEY         "a8dbad903d5848ebad0c187860b5247b"
 
 
 //Soil Sensor
